@@ -1,0 +1,25 @@
+{
+    "name": "focus-orange",
+    "displayName": "Focus Orange",
+    "description": "Saw that orange is a color that can bring out focus, so decided to make a theme from that.",
+    "publisher": "FBCH32",
+    "author": {
+        "name": "Cristian Gutierez"
+    },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Focus Orange",
+                "uiTheme": "vs",
+                "path": "./themes/Focus Orange-color-theme.json"
+            }
+        ]
+    }
+}
